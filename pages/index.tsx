@@ -11,7 +11,7 @@ const Index = () => {
 
         <div className={styles.container} >
 
-
+Home/index
         </div>
     </PageTemplate>
   

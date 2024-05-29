@@ -1,16 +1,17 @@
 import React from 'react'
-import styles from "../pages/PagesStyleFiles/Contacts.module.css"
+import styles from "../pages/PagesStyleFiles/Gallery.module.css"
 import PageTemplate from '../components/PageTemplate/PageTemplate'
 
-const Contacts = () => {
+const Gallery = () => {
   return (
 
     <PageTemplate>
-   <div>Contacts</div>
+
+   <div>Gallery</div>
 
     </PageTemplate>
  
   )
 }
 
-export default Contacts
+export default Gallery
