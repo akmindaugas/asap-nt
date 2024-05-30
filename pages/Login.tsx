@@ -2,6 +2,7 @@ import React, {useState} from 'react'
 import styles from "../pages/PagesStyleFiles/Login.module.css"
 import PageTemplate from '../components/PageTemplate/PageTemplate'
 import {useRouter} from "next/router"
+import { useTranslation } from 'react-i18next';
 
 
 
